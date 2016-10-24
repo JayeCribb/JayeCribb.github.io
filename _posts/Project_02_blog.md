@@ -4,7 +4,7 @@ title: The Billboard Chart 2000
 date: 23/10/16
 ---
 
-# The Billboard Chart
+# Billboard Chart
 
 ### Background
 
@@ -50,7 +50,7 @@ The following is a summary of some of the main findings from the data
 
 ** Track length distribution **
 
-![alt text](https://lh4.googleusercontent.com/WIn878TgzJyKYEYb189OaOwmZH3-yoQP5GY_kgmDnGF-rVsK91Z4ejZKqSbMpYmnC1c-6Mps=w1240-h712)
+![alt text](https://lh3.googleusercontent.com/VIVxyUXI1yigGNtAr-cLT0x9_NT9wLksUOjABZttFDy3RT1bbFZ4yRSQ9JiV8GUKINWoZgQGcaomktJDkx-Vfj-Uyogv2QCzFpEu5uh_sTiWxPIDcXaVO6_Al7TBs0MKEGwW1DZxFt7FDS8A2XnEtQYPBgCcY6iMvLzfVM4LhptoW4rBJjoUrMeLUXHVUZDmElI7SHa4Y1zY5ixK0tOTofPNWTzwOMy2f8CrlNNaC3vtXgZczqG22vie_ZAnk-1X83O9YdVy7KOhpQH2rPhgBppp1Yz_4VjWglkhPqiITCWOsRD5gtDt9MgXTLkaNLIOzQJ0t5MGLbZsTWfB77xQpjlia_igo0B_3AaoQ65dFcgHidsvjjgdCv66J1eWZH7HkngFdDyJhvNs9T6SPywNn8NFpGhnAiq22JMyXPYgjcu3H3ZaWzgD46jJ3xxSqic5_6gL8_ACrYNHBkUJCKxGGxNYHwUkZKaFXy4Rcb71CRJTnjKzgGByxoJKb3oG9mZzBiLsn0-3TxRYIJusDKipUsz84zvcxf9svMjnydyor9FugYnDUu-RGqGHRItaES5cUSAeQwTw=w1280-h699-k)
 
 The histogram shows that track lengths are normally distibuted (as expected), with a slight positive skew. The majority of tracks fall between two standard deviations either side of the mean. The average track length was 156 seconds.
 
@@ -78,4 +78,3 @@ As shown in the following bar chart, the most popular genre of music in the char
 The number of songs entered into the chart each month peaks in April. A total of 33 tracks entered. As shown by the graph, the number of tracks per month, starts to fall off in August.
 
 ![alt text](https://lh3.googleusercontent.com/fiZL3EOENUgDcFWCzKRCxQ4KH16N4kN76zeIjcuW2qfdgrnF3jlLLVPHkZze_d65ZGhKZewDwndoqUo4XKh0u9k8CKvQJQi0te4pU96WLrJ6H8C8SNry3Bz1DdND8nm5eenbJVudG9sjcJ7IzSPqambwIRRPY5mAIT4-8O3uZh3AOFckN-tFKS5f4bLtDEtDIIHgvTAHXAZQSblU5G-LF-xmYXyrv0BI9f_LDy_53w5-3Y1_q-x9e40wOzc2sTQuh67ckIkwQ70Sxg1YXEMR8JC3u1bcaoobKCuCgLliCOHLzQffOUETwW-U11phMQQ3zbEMzQd2PYzuuiEwbqf-SGn8729sSQmrkeYa3G-GipcZfEZmoeemFp3MCiDJsho4R9ARQoQoc90MHcVksaVTMs8-9yl-y7IBLhaOp4sJhCN-vhdMIUucS2xp45VrW7tLvkdzaownIvcMsW6IFPpvOFZ9LSGxckH33aT-w4WFEzwQpBZohJWjP80REzyctULqyKIxDUniE6pu65PHesSIYhWiM3h0uS1h346t9eo1gosIdPxLWIg8AG7rBOJJX7wG3Udd62kg=w1280-h699-k)
-
