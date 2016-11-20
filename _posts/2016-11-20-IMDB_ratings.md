@@ -1,6 +1,12 @@
+---
+layout: post
+title: Predicting IMDB Film ratings
+date: 20/11/16
+---
+
 # Executive Report
 
-**The aim of the following report is to examine what factors lead to certain ratings for movies. From these factors a model can then be produced to accurately predict ratings for films. The accuracy of the model will be judged on how well the model performs in its predictions, indicated by the R2 score **
+**The aim of the following report is to examine what factors lead to certain ratings for movies. From these factors a model can then be produced to accurately predict ratings for films. The accuracy of the model will be judged on how well the model performs in its predictions, indicated by the R2 score**
 
 **Approach:**
 
@@ -20,7 +26,7 @@ The model itself will be a tree based model, chosen for its accuracy with tasks 
 
 - The average IMDB rating of a top 250 film was 8.3 / 10.0. The following chart shows the distribution of scores across all 250 films.
 
-![](score.png)
+![](https://drive.google.com/open?id=0B-G-1CoLIwYMUzF2eUZyR3dSZk0)
 
 - The film with the highest rating of 9.3 was The Shawshank Redemption, followed closely by The Godfather.
 - The top grossing film was Star Wars: The Force Awakens, with a revenue of 936,627,416 USD.
@@ -48,7 +54,7 @@ The model itself was contructed from an ensemble of Random Forests, optimally tu
 
 The following chart shows the performance of our model on unseen data:
 
-![](scatter.png)
+![](https://drive.google.com/open?id=0B-G-1CoLIwYMMTdJamRnY3VCN0U)
 
 If we had a perfect model, all points on the graph should lie on the diagonal (predicted = actual). What this graph shows is that our model can only explain 43% of the variability in our data set, indicated by the r2_score. 
 
