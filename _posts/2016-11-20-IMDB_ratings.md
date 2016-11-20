@@ -26,7 +26,7 @@ The model itself will be a tree based model, chosen for its accuracy with tasks 
 
 - The average IMDB rating of a top 250 film was 8.3 / 10.0. The following chart shows the distribution of scores across all 250 films.
 
-![](https://drive.google.com/open?id=0B-G-1CoLIwYMUzF2eUZyR3dSZk0)
+![](https://lh3.googleusercontent.com/S94VH90LykEeogttRSexqe9rOemR7ez4pNt1TODX7FYtYnpdJQTOIgAZM0F2iuFdJXjDKStUF5FyORQVyJ2cRdKByRiRkv6i4M9Q-p_aHB80FWolSiYvAKWgOasRhKeMXMGG3a-B-F13b41pKldu1fYFk9_ceua_Ng1Vf16ciZ-FTB6IF9etY84GIov71Ae1I8VeTRYkLlgsJJ758yn3P8SjS5D85U9_3lTHkNASPULBQEKn42soNrIYS0oEp21JtFXIBm7SB4BkukeMtssqUTSPoEVuI9E6Dx4oM0gHTIVqz_ZOGbgPN4ttv9_EfA_ojM8OMFo-hC_d9QswlbsZ2YtaakhG4wtaZnTWnTmAUBoYHo8lGN1yCMhfDA7eSSvURW05aqlD5XhUqC3ym3DLe6DIhejfj9mLeXgZ3g0wJahEq33DSMJWVe0hdxvuWCg-q0pfrpAtB8jEr-m4jU01D6J_fHDiIFZKyxLUSFFC9KAqT1G_eF_tTU9MbSAbeLsWESS4ohCwGIeLaCIDydzlvHtW8olG70kJIPHFPliRlUpUPD8uBIRmw-gMJEqk8E0yWuJlMVtl=w1280-h699)
 
 - The film with the highest rating of 9.3 was The Shawshank Redemption, followed closely by The Godfather.
 - The top grossing film was Star Wars: The Force Awakens, with a revenue of 936,627,416 USD.
@@ -54,7 +54,7 @@ The model itself was contructed from an ensemble of Random Forests, optimally tu
 
 The following chart shows the performance of our model on unseen data:
 
-![](https://drive.google.com/open?id=0B-G-1CoLIwYMMTdJamRnY3VCN0U)
+![](https://lh3.googleusercontent.com/Bau_JGMCUpM2ktsbpTc5j8lqfFupvjkBJ6TwIuGN2HNdd0fVJYthgsuu4pTdHMz276VGc225F32hCDNQneSg7d2SXm6CsAbFn2_3ib8t9BNWB9LiY5N36wsdsxYiBqpD7aEX0F0pWWHw57q9Bzol1afPnUFS8dXPubjVeydBDQU3kYc-08DxGMFaQyGSYKlqbgN-LQJsCy20O_11gEmCtAsEUOUfOSJYPl1SJru3oZLrEE3tU5VQ5RQKzDV7-rhXllvDJVRG02mxlvEMSg3QLJO-Cq_Dbmyn3gdOW_-pnu2b0TnF1DQDr1_P_UffZXcIAfyK6ipbRro8N6N92IShSNh_aTmPygW2ux0Dt3yLbc0h-Ed6SsM-hsThTvsCeYjff9W4uMYMSONx56UUnjtpdMOIiajV-zUgBEjQld2iLKjGN6dtmj7RqlcPNGvKEwJOUA2L59MrJOgIuYiHFtlu6VgV9SgpkRPtWp_DTJNcE2wLC_YxPvGObqboMXN4sFSVzqX04-AE4Pbt1oVIzZob8Fpis_7OsmNjBsYh6-JKmpmWnkP3CnLgPv2BwssdlhPq95fK2U5-=w1280-h699)
 
 If we had a perfect model, all points on the graph should lie on the diagonal (predicted = actual). What this graph shows is that our model can only explain 43% of the variability in our data set, indicated by the r2_score. 
 
