@@ -8,7 +8,7 @@ date: 12/12/16
 
 ### Data Exploration Summary
 
-![](../images/12-12-16-map.png)
+![](../images/12-12-16-Map.png)
 
 The total amount of forest lost globally in 2014 was 17,309,110 Ha. High rates of deforestation can be seen in large parts of South East Asia and across the African continent, in particular Madigascar. The average loss of forest was 0.37% of the total canopy cover for the year 2000. The highest rate of deforestation was in Portugal, although research has shown this could be due to the large amount of forest fires in recent year.
 
