@@ -4,7 +4,7 @@ title: Modelling Global Deforestation
 date: 12/12/16
 ---
 
-# Modelling Global Deforestation
+# Project Summary
 
 ** Introduction **
 
