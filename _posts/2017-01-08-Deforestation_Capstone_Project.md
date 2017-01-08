@@ -6,15 +6,15 @@ date: 12/12/16
 
 # Project Summary
 
-** Introduction **
+#### Introduction
 
 The aim of the project is to determine social, economic and environmental features which are potential predictors of the rate in which trees / forests are being destroyed. These predictors can then be used as a tool to either manage the problem, or as an aid to predict changes in canopy cover.
 
 The majority of the data being used for this project has been taken from Global Forest Watch. Global Forest Watch is an open source data repositary whose purpose is to empower people everywhere to better manage and conserve forest landscapes. In addition to this, economic data has also been taken from The World Data Bank, using both data sets in conjunction in order to try and biuld a more complete picture of factors which might contribute to canopy change.
 
-** Exploratory Data Analysis **
+#### Exploratory Data Analysis
 
-![](../images/08-01-17-map.png)
+![](../images/08-01-17-Map.png)
 
 The total amount of forest lost globally in 2014 was 17,309,110 Ha, an average loss of 0.37% of the total canopy cover per country. The highest rates of deforestation can be seen in large parts of South East Asia and across the African continent, in particular Malasia, Madigascar and Sierra Leone. The highest rate of deforestation was seen in Portugal, although research has shown this could be due to the large amount of forest fires in recent years.
 
@@ -30,7 +30,7 @@ Using clustering, it was found that a number countries were identified as outlie
 
 Countries indentified as outliers, averagely have higher rates of forest loss, along with (not limited to) GDP per capita, percentage of agricultural land, percentage of forest cover gained and the percentage of certified forest. Population change and GDP growth rates are averagely less. 
 
-** Modelling **
+#### Modelling
 
 The best performing linear model was using Linear Regression. Linear Regression seeks to find a linear relationship between the feature space and the target variable. The model was optimised using feature selection, reducing the dimentionality of the data, resulting in a model which generlised well. Feature selection was conducted using SelectKBest, which selects the K best features based on the f_regression score between the feature and the target. The optimal number of features found using this method was nine. Once the model was fitted to the reduced feature set, the top predictors of forest loss, indicated by the model coefficients, were found to be the percentage of the economy comprised of the forestry sector, the percentage of forest certified, food production index and membership of ILO 169 respectively.
 
